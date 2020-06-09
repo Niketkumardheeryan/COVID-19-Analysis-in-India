@@ -2,6 +2,8 @@
 it is a web app based on **ML algorithm** to predict no. of affecteted
 people based on thier age. Model deployed on Heroku cloud....
 
+<img scr="">
+
 ## Get start
  language used  _PYTHON 
  
