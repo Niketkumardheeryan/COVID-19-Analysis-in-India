@@ -2,7 +2,8 @@
 it is a web app based on **ML algorithm** to predict no. of affecteted
 people based on thier age. Model deployed on Heroku cloud....
 
-<img scr="https://github.com/Niketkumardheeryan/COVID-19-Analysis-in-India/blob/master/Coronavirus-COVID-19.jpg">
+<img src="https://github.com/Niketkumardheeryan/COVID-19-Analysis-in-India/blob/master/Coronavirus-COVID-19.jpg"    alt="img" >
+
 
 ## Get start
  language used  _PYTHON 
