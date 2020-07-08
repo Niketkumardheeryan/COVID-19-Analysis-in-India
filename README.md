@@ -6,24 +6,24 @@ people based on thier age. Model deployed on Heroku cloud....
 
 
 ## Get start
- language used  _PYTHON 
+^ language used  _PYTHON 
  
->. install given libraries below by using **Pip intall _library_name** command on command prompt
->. Make a  ml model 
->. Flask framework to connec it to web.
+> * install given libraries below by using **Pip intall _library_name** command on command prompt
+> * Make a  ml model 
+> * Flask framework to connec it to web.
 
 
 ## Libraries required 
-> Pandas
+> * Pandas
 
-> Numpy
+> * Numpy
 
-> Sklearn
+> * Sklearn
 
-> Flask
+> * Flask
 
 
 
 ## Result
 check it here
-  **website Link** -> https://corona-in.herokuapp.com/
+ * website Link** -> https://corona-in.herokuapp.com/
